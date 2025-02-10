@@ -1,6 +1,7 @@
 # Balance_connectee_Nb-iot_V3
 Balance connectée Nb-iot avec TTGO-SIM7080G
-![This is an image](https://github.com/Ratamuse/Harpe/blob/main/Harpe%20ruches/Images/Harpe10.JPG)
+
+![This is an image](https://github.com/Ratamuse/Beehive_scale_Nb-iot_V3/blob/main/Balance%20Nb_iot/images/pcb.jpg)
 
 Balances connectées au réseau Nb-iot par l'intermédiaire de la carte TTGO Sim7080G de Lilygo. Cette carte embarque un modem ESP32-S3, un modem SIM7080G, un chargeur solaire pour la batterie 18650 li-ion et un lecteur de carte SD utile au projet.
 La ou les balances sont branchées à la TTGO par l'intermédiaire de convertisseurs analogique-numérique 24 bit HX711. Une sonde de température DS18b20 complète l'ensemble.
