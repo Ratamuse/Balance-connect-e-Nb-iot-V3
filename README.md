@@ -7,7 +7,7 @@ Pour faciliter les branchements, un circuit imprimé dédié est disponible. Il 
 Ce circuit imprimé est à souder sur la carte TTGO Sim7080G.
 
 ![This is an image](https://github.com/Ratamuse/Beehive_scale_Nb-iot_V3/blob/main/Balance%20Nb_iot/images/pcb.jpg)
-
+![This is an image](https://github.com/Ratamuse/Beehive_scale_Nb-iot_V3/blob/main/Balance%20Nb_iot/images/TTGO_SIM7080G.jpg)
 
 Vous trouverez ci dessous les liens pour:
 
